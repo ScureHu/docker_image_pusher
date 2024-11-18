@@ -1,3 +1,4 @@
+#
 nginx
 #支持私库
 docker.getcollate.io/openmetadata/db:1.5.6
